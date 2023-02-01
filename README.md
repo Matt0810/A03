@@ -2,7 +2,7 @@ Part 1
 
 How to open a repository from Github to Webstorm
 1. Open up a new project in Webstorm, File -> New -> Project
-2. Select "VCS" from the toolbar, go into "Get From Version Control"
+2. Select "Version Control System" (VCS) from the toolbar, go into "Get From Version Control"
 3. Here you paste the URL of the repository you want to use from Github or on the left side you can select a Github account and you can pick a repository from there
 
 
