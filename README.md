@@ -1,4 +1,5 @@
 Part 1
+
 How to open a repository from Github to Webstorm
 1. Open up a new project in Webstorm, File -> New -> Project
 2. Select "VCS" from the toolbar
