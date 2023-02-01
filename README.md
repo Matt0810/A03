@@ -7,24 +7,24 @@ Part 2
 
 <b>Branch</b>-
 
-Clone-
+<b>Clone</b>-
 
-Commit-
+<b>Commit</b>-
 
-Fetch-
+<b>Fetch</b>-
 
-GIT-
+<b>GIT</b>-
 
-Github-
+<b>Github</b>-
 
-Merge-
+<b>Merge</b>-
 
-Merge Conflict-
+<b>Merge Conflict</b>-
 
-Push-
+<b>Push</b>-
 
-Pull-
+<b>Pull</b>-
 
-Remote-
+<b>Remote</b>-
 
-Repository-
+<b>Repository</b>-
