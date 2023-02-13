@@ -9,11 +9,11 @@ How to open a repository from Github to Webstorm
 
 Part 2
 
-<b>Branch</b>-
+<b>Branch</b>- an independent line of development
 
-<b>Clone</b>-
+<b>Clone</b>- used on an existing repository to copy it and make a new one 
 
-<b>Commit</b>-
+<b>Commit</b>- 
 
 <b>Fetch</b>-
 
