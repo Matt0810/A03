@@ -13,22 +13,22 @@ Part 2
 
 <b>Clone</b>- used on an existing repository to copy it and make a new one 
 
-<b>Commit</b>- 
+<b>Commit</b>- used to save your changes to your local repository
 
-<b>Fetch</b>-
+<b>Fetch</b>- used to download contents from a remote repository 
 
-<b>GIT</b>-
+<b>GIT</b>- a distributed version control system that tracks changes in any set of computer files
 
-<b>Github</b>-
+<b>Github</b>- a cloud based git repository where someone is able to access it from anywhere
 
-<b>Merge</b>-
+<b>Merge</b>- takes the changes from a branch and combines it into another branch
 
-<b>Merge Conflict</b>-
+<b>Merge Conflict</b>- happens whenever a merge is trying to occur but git is unable to resolve the differences between the commits
 
-<b>Push</b>-
+<b>Push</b>- used to move commits from one repository to another
 
-<b>Pull</b>-
+<b>Pull</b>- used to fetch the changes from the remote repository and apply them to the local repository 
 
-<b>Remote</b>-
+<b>Remote</b>- a type of repository that is accessible from more than one location
 
-<b>Repository</b>-
+<b>Repository</b>- a collection of files and a place to store/update them
