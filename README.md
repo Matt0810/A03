@@ -1,5 +1,12 @@
 Part 1
 
+How to install and set up webstorm
+1. Download webstorm from https://www.jetbrains.com/student/  
+2. Install git from https://git-scm.com/downloads
+3. Create a github account on https://github.com/join
+4. Once webstorm has been installed press Ctrl+Alt+S to open up system preferences
+5. Select Version control Git and enter the path to the git.exe
+
 How to open a repository from Github to Webstorm
 1. Open up a new project in Webstorm, File -> New -> Project
 2. Select "Version Control System" (VCS) from the toolbar, go into "Get From Version Control"
